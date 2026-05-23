@@ -74,12 +74,15 @@ docs/_build/
 # PyBuilder
 .pybuilder/
 target/
+data/
+results/
 
 # Jupyter Notebook
 .ipynb_checkpoints
 
 # IPython
 profile_default/
+catboost_info
 ipython_config.py
 
 # pyenv
